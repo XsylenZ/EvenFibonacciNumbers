@@ -2,6 +2,11 @@
 
 const uint32_t MAX_FIBONACCI_NR = 4000000;
 
+/**
+ * Calculates the sum of even Fibonacci numbers, based on a sequence that does not exceed maxNumber of values
+ * @param maxNumber
+ * @return Sum of even Fibonacci numbers
+ */
 uint32_t sumOfEvenFibonacciNumbers( uint32_t maxNumber);
 
 int main()
