@@ -1,3 +1,5 @@
+# Install
+
 The program can be built via the installation script, within any Linux/MacOS environment with a “bash” shell and CMake version 3.7 or higher. The code is written in C++11:
 
 ```
@@ -25,4 +27,4 @@ After that run the program:
 $ ./build/EvenFibonacciNumbers
 ```
 
-# EvenFibonacciNumbers
+
