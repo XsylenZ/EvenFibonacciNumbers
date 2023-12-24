@@ -12,7 +12,7 @@ Because every third Fibonacci number is even, there is no need to test for even 
 
 Example:
 
-1 1 __2__ 3 5 __8__ 13 21 __34__ ...
+1, 1, __2__, 3, 5, __8__, 13, 21, __34__, ...
 
 This is the reason only the third number is added to the sum
 
